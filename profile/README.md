@@ -13,4 +13,4 @@
 
 ## ⚙️​ • Équipe: 
 
-» **Admin** & **Développeur**: Gabriel (Gabriel__l)
+» **Admin** & **Développeur**: Gabriel (Gabriel_lrx)
