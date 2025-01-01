@@ -6,8 +6,8 @@
 
 ## 📞​ • Contact(s): 
 
-» Email: `contact@satariamc.com`      
-» Discord `https://discord.satariamc.com`
+» Email: `.`      
+» Discord `.`
 
 ***» En cas de gros problème n'hésitez pas à créer un ticket dans la catégorie AIDE sur le Discord !***
 
